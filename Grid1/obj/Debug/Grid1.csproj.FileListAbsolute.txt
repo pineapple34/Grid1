@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\bin\Debug\Grid1.exe.config
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\bin\Debug\Grid1.exe
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\bin\Debug\Grid1.pdb
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.exe
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.pdb
+C:\Users\Asus\Desktop\GitHub\Grid1\Grid1\obj\Debug\Grid1.Grid1.resources
